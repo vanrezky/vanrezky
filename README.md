@@ -12,3 +12,13 @@
   </samp>
 </p>
 
+## Statistics
+
+![GitHub Stats](https://github-readme-stats-yohanesgultom.vercel.app/api?username=kulikode-dev&show_icons=true&theme=tokyonight)
+
+![GitHub Top Langs](https://github-readme-stats-yohanesgultom.vercel.app/api/top-langs/?username=kulikode-dev&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,tex)
+
+![GitHub Top Starred Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-star-repos?username=kulikode-dev&repo_count=7&theme=tokyonight)
+
+![GitHub Top Forked Repos](https://github-readme-stats-yohanesgultom.vercel.app/api/top-fork-repos?username=kulikode-dev&repo_count=7&theme=tokyonight)
+
