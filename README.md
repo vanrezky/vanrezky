@@ -4,11 +4,10 @@
 
 <p align="center">
   <samp>
-    🔥 Backend Engineer building useful things, one step at a time<br>
+    🔥 Software Engineer building useful things, one step at a time<br>
     💻 JavaScript &bull; PHP &bull; TypeScript &bull; .NET (Learning)<br>
     🌐 <a href="https://vanrezky.web.id">vanrezky.web.id</a><br>
-
-    🔗 <a href="https://linkedin.com/in/vanrezky">linkedin.com/in/vanrezky</a>
+    🔗 <a href="[https://vanrezky.web.id](https://linkedin.com/in/vanrezky)">linkedin</a>
   </samp>
 </p>
 
@@ -17,13 +16,8 @@
 ### 👨‍💻 About Me
 
 - Backend-focused developer who enjoys building web applications and improving real product workflows.
-- Most comfortable with `PHP`, `JavaScript`, and `TypeScript`.
 - Currently learning `.NET` and expanding my engineering depth step by step.
 - Interested in practical systems, clean implementation, and shipping features that matter.
-
-### 🧰 Tech Stack
-
-`PHP` `Laravel` `JavaScript` `TypeScript` `Node.js` `MySQL` `PostgreSQL` `HTML` `CSS` `Git` `.NET (Learning)`
 
 ### ✍️ Quotes
 
